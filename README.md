@@ -16,11 +16,16 @@ Here are some ideas to get you started:
 -->
 
 <details>
-<summary>Work Experience</summary>
+<summary>💼 Work Experience</summary>
 
 </details>
 
 <details>
-<summary>Education</summary>
+<summary>🎓 Education</summary>
+
+</details>
+
+<details>
+<summary>🌱 Skills Advancement & Training</summary>
 
 </details>
