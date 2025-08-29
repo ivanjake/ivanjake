@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me
 
 <!--
 **ivanjake/ivanjake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<details>
+<summary>Work Experience</summary>
+
+</details>
+
+<details>
+<summary>Education</summary>
+
+</details>
