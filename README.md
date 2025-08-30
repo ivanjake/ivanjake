@@ -15,19 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<details>
-<summary>💼 Work Experience</summary>
+## 🧑‍💼 Work Experience
 
-</details>
+## 🎓 Education
 
-<details>
-<summary>🎓 Education</summary>
-  2018-2022 University of the Philippines Los Baños, _BS Statistics_
-  2016-2018 First Asis Institute of Technology and Humanities, _Senior High School_
-  2012-2016 Lipa City Science High School, _Junior High School_
-</details>
-
-<details>
-<summary>🌱 Skills Advancement & Training</summary>
-
-</details>
+## 🌱 Skills Advancement & Trainings
