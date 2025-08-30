@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 <details>
 <summary>🎓 Education</summary>
-
+2018-2022 University of the Philippines Los Baños, BS Statistics
+2016-2018 First Asis Institute of Technology and Humanities, Senior High School
+2012-2016 Lipa City Science High School, Junior High School
 </details>
 
 <details>
