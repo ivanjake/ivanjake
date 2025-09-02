@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 🧑‍💼 Work Experience
 
 ## 🎓 Education
-2018-2022 **University of the Philippines Los Baños**, *BS Statistics*
-2016-2018 **First Asia Institute of Technology and Humanities**, *Senior HIgh School*
+2018-2022 **University of the Philippines Los Baños**, *BS Statistics*<br>
+2016-2018 **First Asia Institute of Technology and Humanities**, *Senior HIgh School*<br>
 2012-2016 **Lipa City Science High School**, *Junior High School*
 ## 🌱 Skills Advancement & Trainings
